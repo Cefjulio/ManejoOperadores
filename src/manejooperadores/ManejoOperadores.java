@@ -74,29 +74,7 @@ public class ManejoOperadores {
         System.out.println("k = "+k);
         
         
-        
-        
-        
-        
-        
-        
-        
-        
-       
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+      
         
     }
     
